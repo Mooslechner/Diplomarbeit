@@ -2,4 +2,4 @@ Jetzt mache Ich eine Aenderung.
 
 Eine neue Branch wurde erstellt.
 Diese Aenderung findet nur in der
-Branch zweiterAnwender statt. 
+Branch zweiterAnwender statt.
